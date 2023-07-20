@@ -50,6 +50,8 @@ plt.plot(X_train,lr.predict(X_train),color='red')
 plt.xlabel('CGPA')
 plt.ylabel('Package(in lpa)')
 plt.show()
+
+
 WRITE A PROGRAM TO IMPLEMENT DECISION TREE USING PYTHON/R/PROGRAMMING LANGUAGE OF YOUR CHOICE  (load_iris())
 import matplotlib.pyplot as plt
 import pandas as pd
